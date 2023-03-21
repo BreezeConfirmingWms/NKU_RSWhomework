@@ -1,0 +1,3 @@
+/home/yum/文档/GitHubProject/HomeworkForRoboticsrSoftware/OpencvDemo/build/CMakeFiles/rebuild_cache.dir
+/home/yum/文档/GitHubProject/HomeworkForRoboticsrSoftware/OpencvDemo/build/CMakeFiles/edit_cache.dir
+/home/yum/文档/GitHubProject/HomeworkForRoboticsrSoftware/OpencvDemo/build/CMakeFiles/OpencvDemo.dir

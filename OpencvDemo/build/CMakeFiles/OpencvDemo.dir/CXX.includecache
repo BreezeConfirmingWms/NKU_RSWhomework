@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yum/文档/GitHubProject/HomeworkForRoboticsrSoftware/OpencvDemo/src/LoadShowPics.cpp
+iostream
+-
+opencv2/opencv.hpp
+-
+opencv2/highgui.hpp
+-
+
