@@ -1,4 +1,5 @@
 # 2023年春nku-ai的机器人软件工程学的作业存档
+
 **以下作业均在Ubuntu20.04和Ros-Noetic环境上实验**
 ## HW1：使用CMake编译OpenCV显示图片的程序(HW1_OpencvDemo)
     在Ubuntu20,04上编译Opencv进行安装(略)
@@ -42,4 +43,31 @@ target_link_libraries(${PROJECT_NAME} ${OpenCV_LIBS})
 使用命令`rosrun <Your Ros Pkg Name> RosPySubscriber.py`进行消息订阅节点的运行
 
 
+
+------
+
+------
+
+Update 2023/6/9/
+
+## 更新：机器人软件工程学期末结课大作业
+
+文件夹为`RbSoftWareFinalProject`
+
+目录结构为
+
+* **doc_pdf**：项目文档
+* **my_turtlebot2_demo**：项目源码
+* **my_dependencies**:项目依赖项，包含dynamixel补丁，修改后的古月居机器人语音开源包，机械臂配置
+
+此外项目使用需要在ubuntu安装cuda以及tensorflow ,tensoorflow-object-detection-api。请参照教程和本机环境进行配置，以上代码均在tensorflow-gpu-2.4.4环境下运行。此外，还需要对文档提到的问题重视
+
+####  依赖项文件的几点说明
+
+1. dynamixel_motor_Noetic为可以使用python3 rospy的包
+2. ==robot_voice==基于古月居的guyueclass开源教程，项目修改部分主要是语言听写和语言对话的部分。记住必须先申请科大讯飞的语言听写包然后
+
+​	下载解压到本地并按照教程配置环境变量才可以正常使用，且使用时请吧代码的ippid改为自己的id号，可以在科大讯飞官网查看自己申请的工具的ID号
+
+​	3.其余问题见文档手测
 
