@@ -1,0 +1,53 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/yum/EDisk/my_turtlebot2/devel/include/**",
+        "/home/yum/catkin_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/yum/EDisk/ws_moveit/devel/include/**",
+        "/home/yum/catkin_ws/src/MyInitialRosPkg/include/**",
+        "/home/yum/EDisk/my_turtlebot2/src/ar_track_alvar/include/**",
+        "/home/yum/catkin_ws/src/choreonoid/include/**",
+        "/home/yum/catkin_ws/src/RIA-E100/e100_description/include/**",
+        "/home/yum/EDisk/my_turtlebot2/src/freenect_stack/freenect_camera/include/**",
+        "/home/yum/catkin_ws/src/wheeled_biped_robot/gpt_robotlab/include/**",
+        "/home/yum/EDisk/my_turtlebot2/src/kobuki/kobuki_auto_docking/include/**",
+        "/home/yum/EDisk/my_turtlebot2/src/kobuki/kobuki_bumper2pc/include/**",
+        "/home/yum/EDisk/my_turtlebot2/src/kobuki/kobuki_controller_tutorial/include/**",
+        "/home/yum/EDisk/my_turtlebot2/src/kobuki/kobuki_keyop/include/**",
+        "/home/yum/EDisk/my_turtlebot2/src/kobuki/kobuki_node/include/**",
+        "/home/yum/EDisk/my_turtlebot2/src/kobuki/kobuki_random_walker/include/**",
+        "/home/yum/EDisk/my_turtlebot2/src/kobuki/kobuki_safety_controller/include/**",
+        "/home/yum/EDisk/ws_moveit/src/moveit_motion_planner/moveit_lerp_motion_planner/include/**",
+        "/home/yum/EDisk/ws_ForkLift/src/robot_mrobot/mrobot_bringup/include/**",
+        "/home/yum/EDisk/my_turtlebot2/src/my_dynamixel/include/**",
+        "/home/yum/EDisk/ws_ForkLift/src/my_ROS_mobile_robot/my_robot_base/include/**",
+        "/home/yum/EDisk/my_turtlebot2/src/my_turtlebot2_demo/include/**",
+        "/home/yum/EDisk/my_turtlebot2/src/perception_pcl/pcl_conversions/include/**",
+        "/home/yum/EDisk/my_turtlebot2/src/perception_pcl/pcl_ros/include/**",
+        "/home/yum/catkin_ws/src/wheeled_biped_robot/robot_control/include/**",
+        "/home/yum/catkin_ws/src/wheeled_biped_robot/robot_sim/include/**",
+        "/home/yum/catkin_ws/src/robot_voice/include/**",
+        "/home/yum/EDisk/my_turtlebot2/src/turtlebot3_applications/turtlebot3_panorama/include/**",
+        "/home/yum/EDisk/my_turtlebot2/src/turtlebot_apps/turtlebot_actions/include/**",
+        "/home/yum/EDisk/my_turtlebot2/src/turtlebot_arm/turtlebot_arm_ikfast_plugin/include/**",
+        "/home/yum/EDisk/my_turtlebot2/src/turtlebot_arm/turtlebot_arm_kinect_calibration/include/**",
+        "/home/yum/EDisk/my_turtlebot2/src/yocs_cmd_vel_mux/include/**",
+        "/home/yum/EDisk/my_turtlebot2/src/yocs_controllers/include/**",
+        "/home/yum/EDisk/my_turtlebot2/src/yocs_velocity_smoother/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

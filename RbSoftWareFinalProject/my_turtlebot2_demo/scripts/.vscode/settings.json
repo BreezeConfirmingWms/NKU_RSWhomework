@@ -1,0 +1,14 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/yum/EDisk/my_turtlebot2/devel/lib/python3/dist-packages",
+        "/home/yum/EDisk/ws_moveit/devel/lib/python3/dist-packages",
+        "/home/yum/catkin_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/yum/EDisk/my_turtlebot2/devel/lib/python3/dist-packages",
+        "/home/yum/EDisk/ws_moveit/devel/lib/python3/dist-packages",
+        "/home/yum/catkin_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ]
+}
